@@ -7,8 +7,8 @@ Run the program, it takes a while for the program to scrape TripAdvisor and stor
 ## Interacting with the code
 An intearctive command line prompt with data visulization options. Data is visulized using plotlty.
 
-### Packages required
-BeautifulSoup
-sqlite3
-plotly
-webbrowser
+## Packages required
+* BeautifulSoup
+* sqlite3
+* plotly
+* webbrowser
