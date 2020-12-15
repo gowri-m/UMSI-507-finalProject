@@ -590,7 +590,6 @@ def reviews_distribution_chart():
     
 
 if __name__ == "__main__":
-    i = 0
     print("Fetching Data...")
     create_db()
     get_hotels_list()
